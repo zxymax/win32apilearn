@@ -20,7 +20,12 @@ ExampleInfo examples[] = {
     {2, "基本控件", "创建包含各种基本控件的窗口", "02_BasicControls.cpp"},
     {3, "GDI基础绘图", "使用GDI进行基础图形绘制", "03_BasicGDI.cpp"},
     {4, "文件操作", "实现基本的文件创建、读写和信息获取", "04_FileOperations.cpp"},
-    {5, "菜单和对话框", "创建菜单和对话框", "05_MenuAndDialog.cpp"}
+    {5, "菜单和对话框", "创建菜单和对话框", "05_MenuAndDialog.cpp"},
+    {6, "键盘输入处理", "处理键盘输入事件、按键状态和特殊键", "06_KeyboardInput.cpp"},
+    {7, "鼠标输入处理", "处理鼠标点击、移动和滚轮事件", "07_MouseHandling.cpp"},
+    {8, "定时器示例", "创建和管理Win32定时器", "08_TimerExample.cpp"},
+    {9, "资源管理", "GDI资源的创建、使用和释放", "09_ResourceManagement.cpp"},
+    {10, "多线程编程", "线程创建、同步和管理", "10_Multithreading.cpp"}
 };
 
 // 获取示例程序数量
